@@ -17,3 +17,9 @@ This is me going through the HeadFirstJavascript book
 ![readme_6](readme_images/readme_6.png)
 
 ![readme_7](readme_images/readme_7.png)
+
+![readme_8](readme_images/readme_8.png)
+
+![readme_9](readme_images/readme_9.png)
+
+![readme_10](readme_images/readme_10.png)
