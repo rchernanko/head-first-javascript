@@ -61,3 +61,5 @@ This is me going through the HeadFirstJavascript book
 ![readme_27](readme_images/readme_27.png)
 
 ![readme_28](readme_images/readme_28.png)
+
+# Chapter 3 - Functions
