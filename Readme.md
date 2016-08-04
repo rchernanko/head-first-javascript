@@ -45,3 +45,19 @@ This is me going through the HeadFirstJavascript book
 ![readme_19](readme_images/readme_19.png)
 
 ![readme_20](readme_images/readme_20.png)
+
+![readme_21](readme_images/readme_21.png)
+
+![readme_22](readme_images/readme_22.png)
+
+![readme_23](readme_images/readme_23.png)
+
+![readme_24](readme_images/readme_24.png)
+
+![readme_25](readme_images/readme_25.png)
+
+![readme_26](readme_images/readme_26.png)
+
+![readme_27](readme_images/readme_27.png)
+
+![readme_28](readme_images/readme_28.png)
