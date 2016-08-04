@@ -26,4 +26,22 @@ This is me going through the HeadFirstJavascript book
 
 ![readme_11](readme_images/readme_11.png)
 
-# Chapter 2
+# Chapter 2 - Building a battleship game
+
+![readme_12](readme_images/readme_12.png)
+
+![readme_13](readme_images/readme_13.png)
+
+![readme_14](readme_images/readme_14.png)
+
+![readme_15](readme_images/readme_15.png)
+
+![readme_16](readme_images/readme_16.png)
+
+![readme_17](readme_images/readme_17.png)
+
+![readme_18](readme_images/readme_18.png)
+
+![readme_19](readme_images/readme_19.png)
+
+![readme_20](readme_images/readme_20.png)
