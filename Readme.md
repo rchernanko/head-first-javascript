@@ -23,3 +23,7 @@ This is me going through the HeadFirstJavascript book
 ![readme_9](readme_images/readme_9.png)
 
 ![readme_10](readme_images/readme_10.png)
+
+![readme_11](readme_images/readme_11.png)
+
+# Chapter 2
