@@ -107,3 +107,11 @@ This is me going through the HeadFirstJavascript book
 ![readme_49](readme_images/readme_49.png)
 
 ![readme_50](readme_images/readme_50.png)
+
+![readme_51](readme_images/readme_51.png)
+
+![readme_52](readme_images/readme_52.png)
+
+![readme_53](readme_images/readme_53.png)
+
+![readme_54](readme_images/readme_54.png)
